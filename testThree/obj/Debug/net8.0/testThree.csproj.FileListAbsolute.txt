@@ -1,0 +1,15 @@
+/Users/kingnan/Documents/github/C-SHAP/testThree/bin/Debug/net8.0/testThree
+/Users/kingnan/Documents/github/C-SHAP/testThree/bin/Debug/net8.0/testThree.deps.json
+/Users/kingnan/Documents/github/C-SHAP/testThree/bin/Debug/net8.0/testThree.runtimeconfig.json
+/Users/kingnan/Documents/github/C-SHAP/testThree/bin/Debug/net8.0/testThree.dll
+/Users/kingnan/Documents/github/C-SHAP/testThree/bin/Debug/net8.0/testThree.pdb
+/Users/kingnan/Documents/github/C-SHAP/testThree/obj/Debug/net8.0/testThree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kingnan/Documents/github/C-SHAP/testThree/obj/Debug/net8.0/testThree.AssemblyInfoInputs.cache
+/Users/kingnan/Documents/github/C-SHAP/testThree/obj/Debug/net8.0/testThree.AssemblyInfo.cs
+/Users/kingnan/Documents/github/C-SHAP/testThree/obj/Debug/net8.0/testThree.csproj.CoreCompileInputs.cache
+/Users/kingnan/Documents/github/C-SHAP/testThree/obj/Debug/net8.0/testThree.sourcelink.json
+/Users/kingnan/Documents/github/C-SHAP/testThree/obj/Debug/net8.0/testThree.dll
+/Users/kingnan/Documents/github/C-SHAP/testThree/obj/Debug/net8.0/refint/testThree.dll
+/Users/kingnan/Documents/github/C-SHAP/testThree/obj/Debug/net8.0/testThree.pdb
+/Users/kingnan/Documents/github/C-SHAP/testThree/obj/Debug/net8.0/testThree.genruntimeconfig.cache
+/Users/kingnan/Documents/github/C-SHAP/testThree/obj/Debug/net8.0/ref/testThree.dll

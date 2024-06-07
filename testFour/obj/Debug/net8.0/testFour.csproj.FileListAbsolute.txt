@@ -1,0 +1,15 @@
+/Users/kingnan/Documents/github/C-SHAP/testFour/obj/Debug/net8.0/testFour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kingnan/Documents/github/C-SHAP/testFour/obj/Debug/net8.0/testFour.AssemblyInfoInputs.cache
+/Users/kingnan/Documents/github/C-SHAP/testFour/obj/Debug/net8.0/testFour.AssemblyInfo.cs
+/Users/kingnan/Documents/github/C-SHAP/testFour/obj/Debug/net8.0/testFour.csproj.CoreCompileInputs.cache
+/Users/kingnan/Documents/github/C-SHAP/testFour/obj/Debug/net8.0/testFour.sourcelink.json
+/Users/kingnan/Documents/github/C-SHAP/testFour/bin/Debug/net8.0/testFour
+/Users/kingnan/Documents/github/C-SHAP/testFour/bin/Debug/net8.0/testFour.deps.json
+/Users/kingnan/Documents/github/C-SHAP/testFour/bin/Debug/net8.0/testFour.runtimeconfig.json
+/Users/kingnan/Documents/github/C-SHAP/testFour/bin/Debug/net8.0/testFour.dll
+/Users/kingnan/Documents/github/C-SHAP/testFour/bin/Debug/net8.0/testFour.pdb
+/Users/kingnan/Documents/github/C-SHAP/testFour/obj/Debug/net8.0/testFour.dll
+/Users/kingnan/Documents/github/C-SHAP/testFour/obj/Debug/net8.0/refint/testFour.dll
+/Users/kingnan/Documents/github/C-SHAP/testFour/obj/Debug/net8.0/testFour.pdb
+/Users/kingnan/Documents/github/C-SHAP/testFour/obj/Debug/net8.0/testFour.genruntimeconfig.cache
+/Users/kingnan/Documents/github/C-SHAP/testFour/obj/Debug/net8.0/ref/testFour.dll

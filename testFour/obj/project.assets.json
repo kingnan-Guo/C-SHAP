@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kingnan/Documents/github/C-SHAP/testOne/testOne.csproj",
-      "projectName": "testOne",
-      "projectPath": "/Users/kingnan/Documents/github/C-SHAP/testOne/testOne.csproj",
+      "projectUniqueName": "/Users/kingnan/Documents/github/C-SHAP/testFour/testFour.csproj",
+      "projectName": "testFour",
+      "projectPath": "/Users/kingnan/Documents/github/C-SHAP/testFour/testFour.csproj",
       "packagesPath": "/Users/kingnan/.nuget/packages/",
-      "outputPath": "/Users/kingnan/Documents/github/C-SHAP/testOne/obj/",
+      "outputPath": "/Users/kingnan/Documents/github/C-SHAP/testFour/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kingnan/.nuget/NuGet/NuGet.Config"

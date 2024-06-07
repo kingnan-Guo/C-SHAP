@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kingnan/Documents/github/C-SHAP/testOne/testOne.csproj": {}
+    "/Users/kingnan/Documents/github/C-SHAP/testThree/testThree.csproj": {}
   },
   "projects": {
-    "/Users/kingnan/Documents/github/C-SHAP/testOne/testOne.csproj": {
+    "/Users/kingnan/Documents/github/C-SHAP/testThree/testThree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kingnan/Documents/github/C-SHAP/testOne/testOne.csproj",
-        "projectName": "testOne",
-        "projectPath": "/Users/kingnan/Documents/github/C-SHAP/testOne/testOne.csproj",
+        "projectUniqueName": "/Users/kingnan/Documents/github/C-SHAP/testThree/testThree.csproj",
+        "projectName": "testThree",
+        "projectPath": "/Users/kingnan/Documents/github/C-SHAP/testThree/testThree.csproj",
         "packagesPath": "/Users/kingnan/.nuget/packages/",
-        "outputPath": "/Users/kingnan/Documents/github/C-SHAP/testOne/obj/",
+        "outputPath": "/Users/kingnan/Documents/github/C-SHAP/testThree/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kingnan/.nuget/NuGet/NuGet.Config"
