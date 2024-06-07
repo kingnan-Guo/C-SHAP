@@ -1,0 +1,14 @@
+D:\localhostWebPage\C#\testTwo\bin\Debug\net8.0\testTwo.exe
+D:\localhostWebPage\C#\testTwo\bin\Debug\net8.0\testTwo.deps.json
+D:\localhostWebPage\C#\testTwo\bin\Debug\net8.0\testTwo.runtimeconfig.json
+D:\localhostWebPage\C#\testTwo\bin\Debug\net8.0\testTwo.dll
+D:\localhostWebPage\C#\testTwo\bin\Debug\net8.0\testTwo.pdb
+D:\localhostWebPage\C#\testTwo\obj\Debug\net8.0\testTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\localhostWebPage\C#\testTwo\obj\Debug\net8.0\testTwo.AssemblyInfoInputs.cache
+D:\localhostWebPage\C#\testTwo\obj\Debug\net8.0\testTwo.AssemblyInfo.cs
+D:\localhostWebPage\C#\testTwo\obj\Debug\net8.0\testTwo.csproj.CoreCompileInputs.cache
+D:\localhostWebPage\C#\testTwo\obj\Debug\net8.0\testTwo.dll
+D:\localhostWebPage\C#\testTwo\obj\Debug\net8.0\refint\testTwo.dll
+D:\localhostWebPage\C#\testTwo\obj\Debug\net8.0\testTwo.pdb
+D:\localhostWebPage\C#\testTwo\obj\Debug\net8.0\testTwo.genruntimeconfig.cache
+D:\localhostWebPage\C#\testTwo\obj\Debug\net8.0\ref\testTwo.dll
