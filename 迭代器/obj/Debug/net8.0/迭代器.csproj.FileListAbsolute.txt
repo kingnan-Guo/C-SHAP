@@ -1,0 +1,5 @@
+/Users/kingnan/Documents/github/C-SHAP/迭代器/obj/Debug/net8.0/迭代器.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kingnan/Documents/github/C-SHAP/迭代器/obj/Debug/net8.0/迭代器.AssemblyInfoInputs.cache
+/Users/kingnan/Documents/github/C-SHAP/迭代器/obj/Debug/net8.0/迭代器.AssemblyInfo.cs
+/Users/kingnan/Documents/github/C-SHAP/迭代器/obj/Debug/net8.0/迭代器.csproj.CoreCompileInputs.cache
+/Users/kingnan/Documents/github/C-SHAP/迭代器/obj/Debug/net8.0/迭代器.sourcelink.json
