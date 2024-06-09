@@ -1,4 +1,5 @@
-﻿namespace 迭代器
+﻿// using 
+namespace 迭代器
 {
     class CustomList<T>: IEnumerable, IEnumerator
     {
